@@ -1,0 +1,134 @@
+label.heading {
+    text-align: right !important;
+    float: right;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+}
+h1.HeadingClass {
+    text-align: center;
+    text-shadow: 2px 2px #FF0000;
+}
+h1.text-center {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    font-weight: bold;
+    text-shadow: rgb(226 226 226) 2px 2px;
+    color: #8500cc;
+}
+.Watch {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    background: rgb(199 102 250) !important;
+}
+span.secound {
+    margin-left: 16px;
+    margin-right: 19px;
+    font-size: 3rem;
+}
+span.space {
+    font-size: 3rem;
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: 15px;
+}
+span.minut {
+    font-size: 3rem;
+    margin-left: 16px;
+    margin-right: 10px;
+}
+span.houer {
+    margin-left: 16px;
+    margin-right: 10px;
+    font-size: 3rem;
+
+}
+button.btn.btn-success.w-50.mx-auto {
+    margin-left: 10.5rem !important;
+    margin-top: 2rem;
+}
+.container.w-75.mt-5.pr-5.pl-5.shadow-sm.pb-5 {
+    border: 1px solid #e4e4e4;
+    border-radius: 9px;
+}
+.container.w-75.mt-5.pr-5.pl-5.shadow-sm.pb-5 {
+    border: 1px solid rgb(255, 202, 156);
+    border-radius: 9px;
+    background: rgb(255 166 153 / 10%);
+}
+#show{
+    display: none;
+}
+label.form-check-label {
+margin-right: 2rem !important;
+}
+#Human2{
+    display: none;
+}
+body#body{
+    background: url('./images/2tPWvO.png');
+    background-repeat: no-repeat;
+
+    background-size: 100%;
+}
+.btn-success {
+    color: #fff;
+    background-color: #ff3e99 !important;
+    border-color: #ff3e99 !important;
+}
+label.heading {
+    color: #8500cc;
+    font-weight: bold;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255 76 153 / 30%);
+    background-clip: padding-box;
+    border: 1px solid rgb(255, 76, 153);
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}   
+label.form-check-label {
+    color: #8c00cc;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+p#showBagperson1 {
+    text-align: right;
+    color: #9009cc;
+    font-weight: bold;
+    margin-top: 18px;
+}
+p#showBagperson2 {
+    text-align: right;
+    color: #9009cc;
+    font-weight: bold;
+    margin-top: 18px;
+}
+.form-check.text-right {
+    margin-right: -9px;
+}
+.form-control:focus {
+    color: #495057;
+    background-color: #ff8699;
+    border-color: #ff4c99;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
+p {
+    text-align: right;
+    font-weight: bold;
+    color: #8500cc;
+    margin-top: 25px;
+}
