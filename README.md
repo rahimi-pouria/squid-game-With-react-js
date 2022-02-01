@@ -1,7 +1,7 @@
 
 
 
- file:///home/pouria/Pictures/Screenshot%20from%202022-02-01%2016-24-42.png
+![Screenshot from 2022-02-01 16-24-42](https://user-images.githubusercontent.com/85546967/151972230-7f24cad8-7c89-4c91-b108-d787b0b44cfe.png)
 
 
 
